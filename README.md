@@ -4,11 +4,6 @@
 
 DXB RealET is an interactive market intelligence dashboard analyzing analyzing Dubai real estate transaction activity, market value, property types, and geographic trends using Dubai Land Department transaction data.
 
-### Stack 
-
-- Dashboard: Power BI Desktop
-- Dataset: Dubai Real Estate Transactions (Kaggle)
-
 ### Dashboard Overview
 
 The dashboard provides a one-page executive view of the Dubai real estate market, focusing on:
