@@ -1,0 +1,20 @@
+dxb-realet/
+├── powerbi/
+│   ├── dxb-realet.pbip
+│   ├── dxb-realet.Report/
+│   │   ├── definition.pbir
+│   │   └── ...
+│   └── dxb-realet.SemanticModel/
+│       ├── definition.pbism
+│       ├── definition/
+│       │   ├── model.bim
+│       │   └── ...
+│       └── ...
+├── data/
+│   ├── dld_transactions_2026.csv
+├── output/
+│   ├── dxb_realet_frauikram.pdf
+│   ├── dxb_realet_frauikram.png
+├── README.md
+├── LICENSE
+└── ...
